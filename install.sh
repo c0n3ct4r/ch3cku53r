@@ -1,4 +1,4 @@
-url='https://github.com/DuTra01/CheckUser'
+url='https://github.com/c0n3ct4r/ch3cku53r'
 
 cd ~
 
